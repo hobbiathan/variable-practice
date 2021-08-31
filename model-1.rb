@@ -29,5 +29,5 @@ my_hashes = Hash["a" => 1, "b" => 2]
 puts "#{H["a"]}"
 
 # This will output 1 to the console, our hash being "a"
-
+# I intentionally left out printing our 'b' hash
 # Is this like referencers in C++? 
