@@ -23,4 +23,11 @@ local_cities = ["Denver","Aurora","Castlerock"]
 data_types = ["Integer", "Boolean", "Character"]
 surprise_surprise = ["Fun fact, Ruby arrays can contain different data types!", 12, '@', "It's kinda unsettling.", true]
 
+# Hashes
+my_hashes = Hash["a" => 1, "b" => 2]
 
+puts "#{H["a"]}"
+
+# This will output 1 to the console, our hash being "a"
+
+# Is this like referencers in C++? 
