@@ -15,3 +15,12 @@ pi = 3.1415
 my_true_variable = false
 my_false_variable = true
 woah_whats_that = nil
+
+
+# Arrays
+
+local_cities = ["Denver","Aurora","Castlerock"]
+data_types = ["Integer", "Boolean", "Character"]
+surprise_surprise = ["Fun fact, Ruby arrays can contain different data types!", 12, '@', "It's kinda unsettling.", true]
+
+
